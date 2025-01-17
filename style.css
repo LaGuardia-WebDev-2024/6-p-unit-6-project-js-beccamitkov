@@ -20,7 +20,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: purple;
   justify-content: space-around;
   align-items: flex-start;
 }
@@ -34,7 +34,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: white;
 }
 
 #start{
